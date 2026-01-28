@@ -1,7 +1,6 @@
 import express from "express";
 const app = express();
 
-import { ObjectId } from "mongodb";
 import db from "./connection.js";
 
 // Find all
