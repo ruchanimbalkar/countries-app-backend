@@ -1,4 +1,4 @@
-const localData = [
+const documents = [
   {
     name: {
       common: "South Georgia",
@@ -25967,5 +25967,5 @@ const localData = [
   },
 ];
 
-//Export localData to be used
-export default localData;
+//Export documents to be used
+export default documents;
