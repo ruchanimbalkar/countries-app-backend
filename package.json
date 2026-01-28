@@ -1,0 +1,27 @@
+{
+  "name": "express_mongo_example",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "- This is my practice of doing the backend of the countries-app. - In the orginal project, I started with front-end and did the backend with Node.js, Express.js and SQL. - I am doing this project as purely backend and starting with countries-data from data.js and using MongoDB atlas NoSQL.",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "mongodb": "^6.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruchanimbalkar/countries-app-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ruchanimbalkar/countries-app-backend/issues"
+  },
+  "homepage": "https://github.com/ruchanimbalkar/countries-app-backend#readme"
+}
